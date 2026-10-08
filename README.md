@@ -1,7 +1,7 @@
 
 # Book4u — Online Bookstore E-Commerce System
 
-[English](english.md) | [Tiếng Việt](README.md)
+[English](english.md) | [Tiếng Việt](Vie.md)
 
 Book4u is a specialized e-commerce web platform for books built with a **Custom MVC architecture in Vanilla PHP**. It enables customers to discover, search, and purchase books online, while providing administrators with a comprehensive control panel for catalog maintenance, warehouse inventory, order fulfillment, and revenue analytics.
 
