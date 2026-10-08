@@ -1,6 +1,6 @@
 # Book4u — Hệ thống Website Bán Sách Trực Tuyến
 
-[Tiếng Việt](README.md) | [English](README_EN.md)
+[Tiếng Việt](Vie.md) | [English](english.md)
 
 Book4u là hệ thống website thương mại điện tử chuyên biệt về sách được xây dựng theo mô hình kiến trúc **Custom MVC (PHP thuần)**, phục vụ khách hàng tìm kiếm, đặt mua sách trực tuyến và cung cấp bảng điều khiển quản trị toàn diện cho việc quản lý kho sách, đơn hàng, khách hàng và thống kê doanh thu.
 
